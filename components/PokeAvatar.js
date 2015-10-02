@@ -5,7 +5,7 @@
 
 import React from 'react';
 
-class PokeAvatar extends React.Component
+export default class PokeAvatar extends React.Component
 {
 	render ()
 	{
